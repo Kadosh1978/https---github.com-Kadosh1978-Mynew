@@ -1,0 +1,168 @@
+{
+  "appInfo" : {
+    "build" : "232.10072.31",
+    "buildDate" : "2023-10-12T13:43:54.957Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-11-14T15:54:19.32169396Z",
+    "os" : "Linux 5.15.0-88-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.8.1 17.0.8.1+7-b1000.32"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Weather",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 8497030,
+      "retrievingChangedDuringIndexingFilesTime" : 602254,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 49034648,
+      "updatingStart" : "2023-11-14T15:54:16.823208409Z",
+      "updatingEnd" : "2023-11-14T15:54:17.369352589Z",
+      "totalWallTimeWithPauses" : 546155888,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 546155888,
+      "dumbWallTimeWithoutPauses" : 546155888,
+      "dumbModeStart" : "2023-11-14T15:54:16.823208409Z",
+      "totalWallTimeWithoutPauses" : 546155888
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 438331596,
+        "total" : 438331596
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8149253,
+        "total" : 8149253
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 8890,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 8890,
+        "totalCpuTime" : 438331596
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 8890,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 438331596,
+          "total" : 438331596
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 438331596,
+        "total" : 438331596
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 16298506,
+        "total" : 8149253
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 8890,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 8890,
+        "totalCpuTime" : 438331596
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 274786557,
+        "total" : 358969162
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 8890,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 8890,
+        "totalCpuTime" : 274786557
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 74556868,
+        "total" : 358969162
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 8890,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 8890,
+        "totalCpuTime" : 74556868
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 9625737,
+        "total" : 358969162
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 8890,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 8890,
+        "totalCpuTime" : 9625737
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 602254
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Weather' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 457037821,
+      "contentLoadingVisibleTime" : 8497030,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 49034648
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

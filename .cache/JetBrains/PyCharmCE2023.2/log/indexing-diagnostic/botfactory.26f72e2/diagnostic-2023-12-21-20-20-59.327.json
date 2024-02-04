@@ -1,0 +1,187 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.11",
+    "buildDate" : "2023-11-13T23:43:28.906Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-12-21T17:20:59.328821379Z",
+    "os" : "Linux 5.15.0-91-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "BotFactory",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 80505421,
+      "retrievingChangedDuringIndexingFilesTime" : 1287360,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 6256620,
+      "updatingStart" : "2023-12-21T17:20:58.942275835Z",
+      "updatingEnd" : "2023-12-21T17:20:59.323811236Z",
+      "totalWallTimeWithPauses" : 381541555,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 381541555,
+      "dumbWallTimeWithoutPauses" : 381541555,
+      "dumbModeStart" : "2023-12-21T17:20:58.942275835Z",
+      "totalWallTimeWithoutPauses" : 381541555
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 594
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 992966649,
+        "total" : 992966649
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 212863556,
+        "total" : 212863556
+      },
+      "totalNumberOfFiles" : 594,
+      "totalFilesSize" : 4513637,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4513637,
+        "totalCpuTime" : 992966649
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (BotFactory) /home/kadosh/PycharmProjects/BotFactory/venv/bin/python",
+        "numberOfFiles" : 593,
+        "totalFilesSize" : 4512664,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 975411256,
+          "total" : 992966649
+        }
+      }, {
+        "providerName" : "Module 'BotFactory' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 973,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 17555393,
+          "total" : 992966649
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 992966649,
+        "total" : 992966649
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 425727112,
+        "total" : 212863556
+      },
+      "totalNumberOfFiles" : 594,
+      "totalFilesSize" : 4513637,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4513637,
+        "totalCpuTime" : 992966649
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 2839150,
+        "total" : 3254266
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 973,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 973,
+        "totalCpuTime" : 2839150
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 348937,
+        "total" : 3254266
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 973,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 973,
+        "totalCpuTime" : 348937
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 66179,
+        "total" : 3254266
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 973,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 973,
+        "totalCpuTime" : 66179
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 1287360
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (BotFactory) /home/kadosh/PycharmProjects/BotFactory/venv/bin/python",
+      "totalNumberOfIndexedFiles" : 593,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 368902484,
+      "contentLoadingVisibleTime" : 80448130,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1080804
+    }, {
+      "providerName" : "Module 'BotFactory' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 6639484,
+      "contentLoadingVisibleTime" : 57291,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 5175816
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

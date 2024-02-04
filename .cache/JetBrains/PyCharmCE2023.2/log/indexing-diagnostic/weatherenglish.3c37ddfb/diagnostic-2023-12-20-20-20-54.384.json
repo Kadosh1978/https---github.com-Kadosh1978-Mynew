@@ -1,0 +1,114 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.11",
+    "buildDate" : "2023-11-13T23:43:34.181Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-12-20T17:20:54.384455585Z",
+    "os" : "Linux 5.15.0-91-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "WeatherEnglish",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 1577113,
+      "retrievingChangedDuringIndexingFilesTime" : 2211871,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 124924,
+      "updatingStart" : "2023-12-20T17:20:53.258164576Z",
+      "updatingEnd" : "2023-12-20T17:20:53.330333344Z",
+      "totalWallTimeWithPauses" : 72174843,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 72174843,
+      "dumbWallTimeWithoutPauses" : 72174843,
+      "dumbModeStart" : "2023-12-20T17:20:53.258164576Z",
+      "totalWallTimeWithoutPauses" : 72174843
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 15
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 170845204,
+        "total" : 170845204
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4052237,
+        "total" : 4052237
+      },
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : 220275,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 220275,
+        "totalCpuTime" : 170845204
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (WeatherEnglish) /home/kadosh/PycharmProjects/WeatherEnglish/venv/bin/python",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 220275,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 170845204,
+          "total" : 170845204
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 170845204,
+        "total" : 170845204
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8104474,
+        "total" : 4052237
+      },
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : 220275,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 220275,
+        "totalCpuTime" : 170845204
+      }
+    } ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 2211871
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (WeatherEnglish) /home/kadosh/PycharmProjects/WeatherEnglish/venv/bin/python",
+      "totalNumberOfIndexedFiles" : 15,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 66492248,
+      "contentLoadingVisibleTime" : 1577113,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 124924
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

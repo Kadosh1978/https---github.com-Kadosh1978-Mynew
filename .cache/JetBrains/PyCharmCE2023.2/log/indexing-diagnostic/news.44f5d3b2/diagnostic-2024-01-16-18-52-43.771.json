@@ -1,0 +1,168 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.11",
+    "buildDate" : "2023-11-13T23:43:17.667Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-01-16T15:52:43.771373182Z",
+    "os" : "Linux 5.15.0-91-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "News",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 23056403,
+      "retrievingChangedDuringIndexingFilesTime" : 6052524,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 44429227,
+      "updatingStart" : "2024-01-16T15:52:40.985451737Z",
+      "updatingEnd" : "2024-01-16T15:52:41.511566735Z",
+      "totalWallTimeWithPauses" : 526097559,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-01-16T15:52:40.985451737Z",
+      "dumbWallTimeWithPauses" : 526097559,
+      "dumbWallTimeWithoutPauses" : 526097559,
+      "totalWallTimeWithoutPauses" : 526097559
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 392553944,
+        "total" : 392553944
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 22081292,
+        "total" : 22081292
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 1132,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1132,
+        "totalCpuTime" : 392553944
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'News' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1132,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 392553944,
+          "total" : 392553944
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 392553944,
+        "total" : 392553944
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 44162584,
+        "total" : 22081292
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 1132,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1132,
+        "totalCpuTime" : 392553944
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 267608129,
+        "total" : 292714217
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1132,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1132,
+        "totalCpuTime" : 267608129
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 19783468,
+        "total" : 292714217
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1132,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1132,
+        "totalCpuTime" : 19783468
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 5322620,
+        "total" : 292714217
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1132,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1132,
+        "totalCpuTime" : 5322620
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 6052524
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'News' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 409889163,
+      "contentLoadingVisibleTime" : 23056403,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 44429227
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

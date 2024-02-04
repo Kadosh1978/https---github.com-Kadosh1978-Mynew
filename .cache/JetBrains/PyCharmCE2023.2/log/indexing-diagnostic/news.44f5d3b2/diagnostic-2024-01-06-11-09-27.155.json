@@ -1,0 +1,191 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.11",
+    "buildDate" : "2023-11-13T23:43:17.426Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2024-01-06T08:09:27.155836574Z",
+    "os" : "Linux 5.15.0-91-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "News",
+    "times" : {
+      "scanningIds" : [ 3 ],
+      "contentLoadingVisibleTime" : 27539040,
+      "retrievingChangedDuringIndexingFilesTime" : 24625,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1548330,
+      "updatingStart" : "2024-01-06T08:09:26.929691394Z",
+      "updatingEnd" : "2024-01-06T08:09:27.155479544Z",
+      "totalWallTimeWithPauses" : 225786612,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 225786612,
+      "dumbWallTimeWithoutPauses" : 225786612,
+      "dumbModeStart" : "2024-01-06T08:09:26.929691394Z",
+      "totalWallTimeWithoutPauses" : 225786612
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 913
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 564047785,
+        "total" : 612208935
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 67116733,
+        "total" : 75662787
+      },
+      "totalNumberOfFiles" : 812,
+      "totalFilesSize" : 5051986,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5051986,
+        "totalCpuTime" : 564047785
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (News) /home/kadosh/PycharmProjects/News/venv/bin/python",
+        "numberOfFiles" : 812,
+        "totalFilesSize" : 5051986,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 564047785,
+          "total" : 564047785
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 47054616,
+        "total" : 612208935
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7866484,
+        "total" : 75662787
+      },
+      "totalNumberOfFiles" : 100,
+      "totalFilesSize" : 736223,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 736223,
+        "totalCpuTime" : 47054616
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.10 (News) /home/kadosh/PycharmProjects/News/venv/bin/python",
+        "numberOfFiles" : 100,
+        "totalFilesSize" : 736223,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 47054616,
+          "total" : 47054616
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 1106534,
+        "total" : 612208935
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 679570,
+        "total" : 75662787
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 131072,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 131072,
+        "totalCpuTime" : 1106534
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'News' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 131072,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1106534,
+          "total" : 1106534
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 564047785,
+        "total" : 612208935
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 142779520,
+        "total" : 75662787
+      },
+      "totalNumberOfFiles" : 812,
+      "totalFilesSize" : 5051986,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5051986,
+        "totalCpuTime" : 564047785
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 1106534,
+        "total" : 612208935
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 76342357,
+        "total" : 75662787
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 131072,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 131072,
+        "totalCpuTime" : 1106534
+      }
+    } ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 24625
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.10 (News) /home/kadosh/PycharmProjects/News/venv/bin/python",
+      "totalNumberOfIndexedFiles" : 912,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 222423400,
+      "contentLoadingVisibleTime" : 27291697,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1546636
+    }, {
+      "providerName" : "Module 'News' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 402746,
+      "contentLoadingVisibleTime" : 247343,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 1694
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

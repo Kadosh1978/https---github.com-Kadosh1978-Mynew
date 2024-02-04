@@ -1,0 +1,207 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.11",
+    "buildDate" : "2023-11-13T23:43:58.646Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2023-11-28T19:06:28.793577554Z",
+    "os" : "Linux 5.15.0-89-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "project_dir",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 1491668,
+      "retrievingChangedDuringIndexingFilesTime" : 15397506,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 129460426,
+      "updatingStart" : "2023-11-28T19:06:25.789128161Z",
+      "updatingEnd" : "2023-11-28T19:06:26.441240721Z",
+      "totalWallTimeWithPauses" : 652084161,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2023-11-28T19:06:25.789128161Z",
+      "dumbWallTimeWithPauses" : 652084161,
+      "dumbWallTimeWithoutPauses" : 652084161,
+      "totalWallTimeWithoutPauses" : 652084161
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 518069780,
+        "total" : 518069780
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1416147,
+        "total" : 1416147
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 959,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 518069780
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'project_dir' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 959,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 518069780,
+          "total" : 518069780
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 518069780,
+        "total" : 518069780
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2832294,
+        "total" : 1416147
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 959,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 518069780
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 518069780,
+        "total" : 518069780
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2832294,
+        "total" : 1416147
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 959,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 518069780
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 318861140,
+        "total" : 369400248
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 959,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 318861140
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 26186397,
+        "total" : 369400248
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 959,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 26186397
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 18049219,
+        "total" : 369400248
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 959,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 18049219
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 6303492,
+        "total" : 369400248
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 959,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 959,
+        "totalCpuTime" : 6303492
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 15397506
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'project_dir' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 545697681,
+      "contentLoadingVisibleTime" : 1491668,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "about.html",
+        "processingTime" : 518069780,
+        "evaluationOfIndexValueChangerTime" : 369400248,
+        "contentLoadingTime" : 1416147
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 129460426
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

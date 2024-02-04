@@ -1,0 +1,15 @@
+30/10 20:41:05  INFO com.intellij.internal.statistic.uploader - Process started with '--ide-token /home/kadosh/.cache/JetBrains/PyCharmEdu2022.2/token --recorders FUS --device-fus 301023399cdabe2-9690-4f90-b956-23aafc55857f --bucket-fus 140 --machine-fus 034976d9cdcf48743fb0a6210e7a2a0891383ba04a1bc41c9f77553ecafb0623 --id-revision-fus 0 --files-fus /home/kadosh/.cache/JetBrains/PyCharmEdu2022.2/event-log-data/logs/FUS/f348-4689-ac50-6b1a705e8948-222.4345.35-release.log --url https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json --product PE --product-version 2022.2.2 --user-agent PyCharm/222.4345.35 --extra-headers '
+30/10 20:41:05  INFO com.intellij.internal.statistic.uploader - Classpath:/home/kadosh/Загрузки/pycharm-edu-2022.2.2/lib/3rd-party-rt.jar:/home/kadosh/Загрузки/pycharm-edu-2022.2.2/lib/annotations-java5.jar:/home/kadosh/Загрузки/pycharm-edu-2022.2.2/lib/3rd-party-rt.jar:/home/kadosh/Загрузки/pycharm-edu-2022.2.2/lib/app.jar:/home/kadosh/Загрузки/pycharm-edu-2022.2.2/lib/stats.jar
+30/10 20:41:05  INFO com.intellij.internal.statistic.uploader.events - 1698687665558 STARTED ALL
+30/10 20:41:05  INFO com.intellij.internal.statistic.uploader - IDE token file: /home/kadosh/.cache/JetBrains/PyCharmEdu2022.2/token
+30/10 20:41:05  INFO com.intellij.internal.statistic.uploader - Waiting for 2000ms for IDE to close. Attempt #0
+30/10 20:41:07  INFO com.intellij.internal.statistic.uploader - [FUS] Start uploading...
+30/10 20:41:07  INFO com.intellij.internal.statistic.uploader - [FUS] {product:PE, productVersion:2022.2.2, userAgent:PyCharm/222.4345.35(External), url: https://resources.jetbrains.com/storage/fus/config/v4/%s/%s.json, internal:false, isTest:false}
+30/10 20:41:07  INFO com.intellij.internal.statistic.uploader - [FUS] {recorder:FUS, files:/home/kadosh/.cache/JetBrains/PyCharmEdu2022.2/event-log-data/logs/FUS/f348-4689-ac50-6b1a705e8948-222.4345.35-release.log}
+30/10 20:41:07  INFO com.intellij.internal.statistic.uploader - [FUS] {device:301023399cdabe2-9690-4f90-b956-23aafc55857f, bucket:140}
+30/10 20:41:10 FINER com.intellij.internal.statistic.uploader - f348-4689-ac50-6b1a705e8948-222.4345.35-release.log -> {"Encrypted":false,"FailedPutCount":0,"RequestResponses":[{"RecordId":"2RhYuAbi5UX0NdwUNYLXzJSBVDMWFzj6Y5L0B/vnoS5B3CX3SLtTpOUEqNpDt2rhcb0heG4cAtoaZltDUvI79Ze916wFx3conJXvi+xe0VbKlXE6lmSdcinj8NKAv+QOKHBGLpm2aXF1ATubicTFxD4PVpNokLfG8WL1hl+AQhNR5iGBKvjsIJFmyaPQLh05sW3W6+V5ECEsOuckbD7eNd/zEuZ+GYy7"}]}
+30/10 20:41:10 FINER com.intellij.internal.statistic.uploader - Removed sent log: f348-4689-ac50-6b1a705e8948-222.4345.35-release.log
+30/10 20:41:10  INFO com.intellij.internal.statistic.uploader.events - 1698687670094 SEND FUS 1 0 1 [L2hvbWUva2Fkb3NoLy5jYWNoZS9KZXRCcmFpbnMvUHlDaGFybUVkdTIwMjIuMi9ldmVudC1sb2ctZGF0YS9sb2dzL0ZVUy9mMzQ4LTQ2ODktYWM1MC02YjFhNzA1ZTg5NDgtMjIyLjQzNDUuMzUtcmVsZWFzZS5sb2c=] []
+30/10 20:41:10  INFO com.intellij.internal.statistic.uploader.events - 1698687670129 FINISHED FUS
+30/10 20:41:10 FINER com.intellij.internal.statistic.uploader - [FUS] Uploading finished with SEND
+30/10 20:41:10 FINER com.intellij.internal.statistic.uploader - [FUS] Uploaded 1 files.

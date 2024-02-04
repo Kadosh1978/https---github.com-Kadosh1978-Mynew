@@ -1,0 +1,33 @@
+[INFO:2023-12-25 21:33:57,699:application]: Starting Lutris 0.5.14
+[INFO:2023-12-25 21:33:57,730:startup]: Using NVIDIA drivers 535.129.03 for x86_64
+[INFO:2023-12-25 21:33:57,730:startup]: GPU: NVIDIA GeForce MX110
+[INFO:2023-12-25 21:33:57,730:display]: GPU: 10DE:174E 1043:119F (nvidia drivers)
+[INFO:2023-12-25 21:33:57,731:display]: GPU: 8086:3EA1 1043:119F (i915 drivers)
+[INFO:2023-12-25 21:33:58,129:api]: Getting runner information for wine
+[WARNING:2023-12-25 21:34:54,187:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/winetricks
+[WARNING:2023-12-25 21:40:11,630:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/innoextract-1.9-linux
+[WARNING:2023-12-25 21:40:59,863:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/p7zip
+[WARNING:2023-12-25 21:41:02,323:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/gamecontrollerdb
+[WARNING:2023-12-25 21:43:09,880:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/battleye_runtime
+[WARNING:2023-12-25 21:43:16,966:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/network-tools
+[INFO:2023-12-25 21:49:42,894:application]: Shutting down Lutris
+[INFO:2023-12-25 21:49:50,712:application]: Starting Lutris 0.5.14
+[INFO:2023-12-25 21:49:50,715:startup]: Using NVIDIA drivers 535.129.03 for x86_64
+[INFO:2023-12-25 21:49:50,715:startup]: GPU: NVIDIA GeForce MX110
+[INFO:2023-12-25 21:49:50,716:display]: GPU: 10DE:174E 1043:119F (nvidia drivers)
+[INFO:2023-12-25 21:49:50,716:display]: GPU: 8086:3EA1 1043:119F (i915 drivers)
+[INFO:2023-12-25 21:51:35,023:runner]: Runtime disabled by system configuration
+[WARNING:2023-12-25 21:51:35,024:runner]: Accessing game config while runner wasn't given one.
+[WARNING:2023-12-25 21:51:35,024:runner]: Accessing game config while runner wasn't given one.
+[INFO:2023-12-25 21:52:31,629:application]: Shutting down Lutris
+[INFO:2023-12-26 07:15:09,385:application]: Starting Lutris 0.5.14
+[INFO:2023-12-26 07:15:09,389:startup]: Using NVIDIA drivers 535.129.03 for x86_64
+[INFO:2023-12-26 07:15:09,389:startup]: GPU: NVIDIA GeForce MX110
+[INFO:2023-12-26 07:15:09,390:display]: GPU: 10DE:174E 1043:119F (nvidia drivers)
+[INFO:2023-12-26 07:15:09,390:display]: GPU: 8086:3EA1 1043:119F (i915 drivers)
+[WARNING:2023-12-26 07:15:24,967:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/Ubuntu-18.04-i686
+[WARNING:2023-12-26 07:15:41,692:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/Ubuntu-18.04-x86_64
+[WARNING:2023-12-26 07:15:43,511:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/dxvk-cache-tool
+[WARNING:2023-12-26 07:15:45,157:system]: Non existent path: /home/kadosh/.local/share/lutris/runtime/eac_runtime
+[WARNING:2023-12-26 07:18:38,253:system]: Non existent path: /home/kadosh/.local/share/lutris/runners/wine/wine-ge-lol-8-27-x86_64
+[INFO:2023-12-26 07:18:41,830:application]: Shutting down Lutris
